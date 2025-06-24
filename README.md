@@ -1,8 +1,6 @@
 # Welcome!
 
-## About Me
-
-Hi, I'm Emma! I am currently studying **Statistics & Data Science** at UCLA.
+My name is Emma, and I'm currently studying **Statistics & Data Science** at UCLA, with a minor in **Data Science Engineering**.
 
 🌟 **Skills:** Python, R, SQL, Looker, GCP, Data Science, ML
 
