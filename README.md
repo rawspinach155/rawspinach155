@@ -2,7 +2,7 @@
 
 My name is Emma, and I'm currently studying **Statistics & Data Science** at UCLA, with a minor in **Data Science Engineering**.
 
-💻 **Currently:** Business Intelligence Intern @ Sentry.io
+💻 **Currently:** Business Intelligence Intern @ [Sentry](https://github.com/getsentry)
 
 🌟 **Skills:** Python, R, SQL, Looker, GCP, Data Science, ML
 
