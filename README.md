@@ -2,13 +2,15 @@
 
 My name is Emma, and I'm currently studying **Statistics & Data Science** at UCLA, with a minor in **Data Science Engineering**.
 
-💻 **Most Recently:** Business Intelligence Intern @ [Sentry](https://github.com/getsentry)
+💻 **Currently:** Data Engineering Intern @ Meta
+
+📊 **Previously:** Business Intelligence Intern @ [Sentry](https://github.com/getsentry)
 
 🌟 **Skills:** Python, R, SQL, Looker, GCP, Data Science, ML
 
 💼 **Open to:** Internship and job opportunities in Data Science/Engineering, Business Intelligence, and Machine Learning.
 
-📬 **Contact:** [emmawu@ucla.edu](mailto:emmawu@ucla.edu)
+📬 **Contact:** [emmawu@ucla.edu](mailto:emmawu@ucla.edu) or [emmawu155@gmail.com](mailto:emmawu155@gmail.com) 
 
 🔗 **LinkedIn:** [www.linkedin.com/in/emmawu155](https://www.linkedin.com/in/emmawu155)
 
