@@ -2,7 +2,7 @@
 
 My name is Emma, and I'm currently studying **Statistics & Data Science** at UCLA, with a minor in **Data Science Engineering**.
 
-💻 **Currently:** Data Engineering Intern @ Meta
+💻 **Currently:** Data Engineer Intern @ Meta
 
 📊 **Previously:** Business Intelligence Intern @ [Sentry](https://github.com/getsentry)
 
