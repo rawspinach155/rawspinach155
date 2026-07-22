@@ -4,7 +4,7 @@ My name is Emma, and I'm currently studying **Statistics & Data Science** at UCL
 
 💻 **Currently:** Data Engineer Intern @ Meta
 
-📊 **Previously:** Business Intelligence Intern @ [Sentry](https://github.com/getsentry)
+📊 **Previously:** Business Intelligence Intern @ [Sentry](https://github.com/getsentry), Data Scientist (Contract) @ Kohl's Corporate
 
 🌟 **Skills:** Python, R, SQL, Looker, GCP, Data Science, ML
 
