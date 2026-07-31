@@ -14,4 +14,6 @@ My name is Emma, and I'm currently studying **Statistics & Data Science** at UCL
 
 🔗 **LinkedIn:** [www.linkedin.com/in/emmawu155](https://www.linkedin.com/in/emmawu155)
 
+👉 Learn more about me at my [my personal website](https://emmawu.vercel.app/) :)
+
 ---
